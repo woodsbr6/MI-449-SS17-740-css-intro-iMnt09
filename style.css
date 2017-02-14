@@ -1,0 +1,12 @@
+.container {
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+h1, .tagline {
+  text-align: center;
+}
+
+body {
+  font-family: 'Open Sans', Arial, sans-serif;
+}

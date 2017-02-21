@@ -7,6 +7,23 @@ h1, .tagline {
   text-align: center;
 }
 
+h2 {
+  color: Green;
+}
+
 body {
   font-family: 'Open Sans', Arial, sans-serif;
+}
+
+a {
+  color: purple;
+}
+
+a:hover {
+  color: orange;
+}
+
+img {
+  height: 400px;
+  width: 500px;
 }

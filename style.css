@@ -2,6 +2,11 @@
   margin: 0 auto;
   max-width: 500px;
 }
+.city-description {
+  text-align: center;
+  color: black;
+  font-size: 18px;
+}
 
 h1, .tagline {
   text-align: center;
@@ -13,7 +18,7 @@ h2 {
 }
 
 body {
-  font-family: 'Open Sans', Arial, sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 a {
@@ -25,6 +30,6 @@ a:hover {
 }
 
 img {
-  height: 200px;
-  width: 200px;
+  height: 70px;
+  width: 70px;
 }

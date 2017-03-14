@@ -8,16 +8,33 @@
   font-size: 18px;
 }
 
+header {
+  background-color: white;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+section {
+  background-color: white;
+  padding-left: 25px;
+  padding-top: 25px;
+  padding-right: 25px;
+  padding-bottom: 25px;
+  margin-top: 25px;
+}
+
 h1, .tagline {
   text-align: center;
 }
 
 h2 {
   color: Green;
-  border-bottom: 2px solid orange;
+  padding-bottom: 15px;
+  border-bottom: 2px solid #D29D66;
 }
 
 body {
+  background-color: #F9F7F5;
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -30,6 +47,10 @@ a:hover {
 }
 
 img {
-  height: 70px;
-  width: 70px;
+  height: 55px;
+  width: 55px;
+  padding-left: 5px;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
 }
